@@ -28,7 +28,7 @@ Mi tiempo es invertido completamente con el poder de aplicar y duplicar herramie
 
 > Email: saorisabeltovar@gmail.com
 
-<h1>Liberemos el poder del la tecnología juntas!</h1>
+<h1>Liberemos el poder de la tecnología juntas!</h1>
 
 <h1>Technologías</h1>
 
