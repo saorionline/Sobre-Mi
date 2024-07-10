@@ -1,4 +1,4 @@
-<h2>Saori Tovar - <a href="https://www.linkedin.com/in/saori-isabel-tovar-7459122b2/" class="sourcelinkedin"><img src="linkedin.svg" alt="LinkedIn"></a></h2>
+<h2>Saori Tovar - <a href="https://www.linkedin.com/in/saori-isabel-tovar-7459122b2/" class="sourcelinkedin"><img src="linkedin.svg" alt="LinkedIn" style="width: 50px, height: auto"></a></h2>
 <h1>About Me:</h1>
 
 <div>
