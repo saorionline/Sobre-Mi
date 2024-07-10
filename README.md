@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/saori-isabel-tovar-7459122b2/" class="sourcelinkedin"><img src="linkedin.svg" alt="LinkedIn" style="width: 50px; height: auto:"></a>
 
 <h2>Saori Tovar</h2>
-<h1>About Me</h1>
+<h1>Sobre mí</h1>
 <h4>
 Como desarrolladora web y analista de datos, tengo un conjunto de habilidades diversas.  Mi personalidad combina un fuerte talento comunicativo, fortaleza técnica. La experiencia en el análisis de datos a profundidad, más adelante. Mi trayectoria en el desarrollo web ha estado marcada por una especialización en JavaScript, lo que me ha permitido crear interfaces front-end dinámicas y centradas en el usuario mediante la escritura de plantillas. Como lo verás, mi enfoque va más allá de la mera funcionalidad, ya que busco infundir diseños con aplicando algo de psicología al usuario y crean funcionalidades digitales cautivadoras e intuitivas.
 </h4>
@@ -28,7 +28,7 @@ Mi tiempo es invertido completamente con el poder de aplicar y duplicar herramie
 
 > Email: saorisabeltovar@gmail.com
 
-<h1>Feel free to contact me!</h1>
+<h1>Liberemos el poder del la tecnología juntas!</h1>
 
 <h1>Technologías</h1>
 
