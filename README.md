@@ -24,6 +24,8 @@ Una breve introducción sobre mí, mis habilidades y mi experiencia.
 
 Mi tiempo es invertido completamente con el poder de aplicar y duplicar herramientas para construir sitios web en grande. Aplicando patroñes de diseño, es impresionante y de alto rendimiento con facilidad. Este Portafolio se hizo para experimentar el poder de un diseño web ágil e impactante hoy mismo.
 <br>
+<br>
+
 
 <img src="codeigniter.svg" alt="Code" style="width: 50px; height: auto:">
 <h1>Contacto</h1>
@@ -32,7 +34,7 @@ Mi tiempo es invertido completamente con el poder de aplicar y duplicar herramie
 
 <h1>Liberemos el poder de la tecnología juntas!</h1>
 
-<h1>Technologías</h1>
+<h1>Tecnologías Web y Análisis de Datos</h1>
 
 Typescript | Javascript | HTML | CSS | Vue | React | Angular
 <br>
